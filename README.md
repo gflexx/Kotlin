@@ -2,4 +2,6 @@
 Basic Kotlin
 <br>
 This Repo Includes:<br>
-Bsic Variables and Strings
+Basic Variables and String usage<br>
+Numbers, Loops and conditionals<br>
+Classes and Inheritance
